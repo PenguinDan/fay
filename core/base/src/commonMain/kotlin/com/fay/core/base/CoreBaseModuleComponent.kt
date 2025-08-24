@@ -1,0 +1,5 @@
+package com.fay.core.base
+
+expect interface CoreBaseSharedPlatformModuleComponent
+
+interface CoreBaseModuleComponent : CoreBaseSharedPlatformModuleComponent
