@@ -14,3 +14,6 @@ https://github.com/user-attachments/assets/ec4a7d4e-a5e4-45da-be6f-9ad2796762ad
 ## Desktop
 https://github.com/user-attachments/assets/42c70ddd-f505-4beb-9211-df4617d1ae68
 
+## IOS
+https://github.com/user-attachments/assets/9dcaafc1-e69f-4248-9cf7-8a3618013f7a
+
